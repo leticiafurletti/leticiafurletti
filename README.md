@@ -3,7 +3,7 @@
 
 I consistently identify avenues for cost reduction and devise strategies to boost revenue, with the aim of extracting valuable insights to inform decision-making and enhance the company's profitability. To achieve this, I am dedicated to advancing my knowledge in business, data analysis, and data visualization, enabling me to develop more advanced analytical models and deliver refined reports.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiafurletti&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiafurletti&rank_icon=github&show_icons=true&theme=transparent)
 
 ## Some Tools that I work with
 
